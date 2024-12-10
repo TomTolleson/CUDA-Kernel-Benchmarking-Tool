@@ -4,3 +4,19 @@
 *.ptx
 *.cubin
 *.fatbin
+
+# Compiled binaries
+*.out
+*.exe
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# IDE specific files
+.vscode/
+.idea/
